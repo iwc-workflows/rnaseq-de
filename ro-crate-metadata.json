@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-11-12T13:06:44.246968",
+            "datePublished": "2024-11-18T09:14:55.968291",
             "hasPart": [
                 {
                     "@id": "rnaseq-de-filtering-plotting.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/rnaseq-de",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
